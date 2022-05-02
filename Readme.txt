@@ -1,4 +1,9 @@
-* To start playing, please uncomment the function call of your wanted version *
+Requirements: Python 3.0 +
+
+Download **guess_a_number.py** or clone it to your local repository in order to run it.
+
+* To select a version and start playing, uncomment the function call related to your wanted version *
+
 There are 3 versions for this game:
 
 In the first 2 versions, the player needs to guess the number that was picked by the PC.
